@@ -1,4 +1,8 @@
-# hg-engine
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/74148058/170675411-cfb1cf56-7618-42af-b02d-51deb935b94f.png" alt="Re:Kanto" class="center" width="80" height="80"> 
+</p>
+
+# Pokémon Re:Kanto hg-engine
 ## About
  A huge upgrade to the battle engine in HeartGold
 
